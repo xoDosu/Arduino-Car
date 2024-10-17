@@ -1,8 +1,4 @@
 #include <Serial.h>
-int rxPin = 0;
-int txPin = 1;
-
-
 
 // MOTOR PINS
 
